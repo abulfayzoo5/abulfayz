@@ -1,0 +1,89 @@
+body{
+    background: azure;
+ }
+ header {
+     width: 1440px;
+     height: 350px;
+     margin: 0 auto;
+ }
+
+ .header {
+     margin-left: 1200px;
+ }
+ .matn{
+    width: 500px;
+    height: 300px;
+    margin: auto;
+ }
+
+ .img {
+     width: 300px;
+     height: 300px;
+     border-radius: 100%;
+     margin-right: 300px;
+ }
+
+ .qat1 {
+     display: flex;
+     margin: 0 auto;
+ }
+
+ button {
+     color: white;
+     background-color: red;
+     border-radius: 7px;
+     width: 100px;
+     height: 30px;
+ }
+
+ main {
+     width: 1440px;
+     height: 600px;
+     background-color: rgba(95, 158, 160, 0.800);
+     margin: 0 auto;
+ }
+.qat2{
+    display: flex;
+    margin: auto;
+}
+.matn1{
+    width: 500px ;
+    height: 300px;
+    margin: auto;
+    margin-top: 90px;
+    background-color: rgba(240, 248, 255, 0.641)
+}
+.matn2{
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    margin-top: 90px;
+    background-color: rgba(240, 248, 255, 0.641);
+}
+.footer{
+    width: 1440px;
+    height: 750px;
+    margin: 0 auto;
+}
+.rasm1{
+    width: 246px;
+    height: 180px;
+    border-radius: 10px;
+}
+.dum{
+    text-align: center;
+    border-radius: 50px;
+    width: 50px;
+    background-color: blue;
+    color: white;
+}
+.qator1,.qator2,.qator3{
+    display: flex;
+    margin-top: 10px;
+}
+.border{
+    border: 1px solid #E0E0E0;;
+}
+footer{
+    margin: auto;
+}

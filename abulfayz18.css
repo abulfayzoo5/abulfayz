@@ -1,0 +1,289 @@
+.ort {
+    margin: 0 auto;
+  background-color: white;
+
+}
+
+body {
+   background-color: #eaeaea;
+    width: 1440px;
+    margin: 0 auto;
+    
+}
+
+.flex {
+    display: flex;
+}
+
+.jc {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.jc2 {
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    width: 35px;
+height: 41.543052673339844px;
+position: relative;
+left: 150px;
+
+}
+ .a{
+    
+    text-decoration: none;
+    font-family: Roboto;
+font-size: 15px;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: center;
+color: black;
+margin-left: 30px;
+position: relative;
+right: 100px;
+top: 10px;
+}
+p{
+    font-family: Roboto;
+font-size: 15px;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: center;
+font-family: 'Roboto', sans-serif;
+font-family: 'Rubik', sans-serif;
+}
+span{
+    border-bottom: 2px solid black;
+}
+h1{
+    font-family: Roboto;
+font-size: 50px;
+font-weight: 700;
+line-height: 60px;
+letter-spacing: 0em;
+position: relative;
+left: 150px;
+
+}
+.container2{
+    position: relative;
+    top: 150px;
+}
+.cq{
+    border-left: 3px solid #888888;
+    height: 120px;
+    position: relative;
+    left: 150px;
+}
+.p{
+    font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+position: relative;
+left: 180px;
+top: -20px;
+color:  #777777;
+text-align: justify;
+
+}
+.apple{
+    width: 427px;
+height: 565px;
+position: relative;
+top: -351px;
+left: 1013px;
+
+}
+button{
+    width: 260px;
+    height: 51px;
+    background-color: #EA625C;
+    position: relative;
+    top: 200px;
+    right: 290px;
+    border: none;
+    outline: none;
+}
+.p2{
+    font-family: Roboto;
+font-size: 18px;
+font-weight: 700;
+line-height: 27px;
+letter-spacing: 0px;
+color: white;
+    position: relative;
+    bottom: 5px;
+}
+.cq2{
+    border-bottom: 2px solid #888888;
+    width: 1440px;
+    position: relative;
+    bottom: 355px;
+}
+.kv{
+    width: 275px;
+    height: 235px;
+    margin-left: 100px;
+    position: relative;
+    left: 70px;
+}
+h2{
+    font-family: Roboto;
+font-size: 18px;
+font-weight: 700;
+line-height: 27px;
+
+
+
+}
+.p3{
+    font-family: Roboto;
+font-size: 15px;
+font-weight: 400;
+line-height: 24px;
+position: relative;
+text-align: justify;
+
+
+
+}
+.container3{
+    position: relative;
+    top: -150px;
+}
+.container4{
+    display: flex;
+    justify-content: space-between;
+    width: 1250px;
+    padding-bottom: 70px;
+}
+.h1{
+    
+        font-family: Roboto;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 0em;
+    position: relative;
+    left: 160px;
+    top: 70px;
+    
+    
+}
+.p4{
+    color: #777;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; /* 24px */
+text-align: justify;
+position: relative;
+left: 200px;
+top: -27px;
+}
+.cq3{
+    border-left: 3px solid #888888;
+    height: 90px;
+    position: relative;
+    left: 163px;
+    top: 80px;
+}
+.btn{
+    width: 260px;
+    height: 51px;
+    background-color: #EA625C;
+    position: relative;
+    top: -0px;
+    right: -159px;
+}
+.winh{
+    /* position: relative; */
+    left: 900px;
+    width: 400px;
+height: 599.927px;
+bottom: 450px;
+}
+.imgrunners{
+    width: 1440px;
+height: 890px;
+
+}
+.h3{
+    color: #FFF;
+font-family: Roboto;
+font-size: 50px;
+font-style: normal;
+font-weight: 700;
+line-height: 150%; /* 24px */
+/* position: relative; */
+bottom: 700px;
+left: 750px;
+}
+.p5{
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 24px */
+    /* position: relative; */
+    bottom: 765px;
+    left: 750px;
+    text-align: justify;
+    border-left: 3px solid #fff;
+    padding-left: 30px;
+}
+.btn2{
+    width: 260px;
+    height: 51px;
+    background-color: #EA625C;
+    position: relative;
+    right: 465px;
+   
+}
+.cq4{
+
+        border-left: 3px solid #FFF;
+        height: 120px;
+        position: relative;
+        left: 753px;
+        top: -750px;
+    
+}
+    .container5{
+        background:url(runners\ 1.png);
+        background-position: center;
+        background-size: cover;
+        width: 1440px;
+        height: 830px;
+        position: relative;
+      
+        
+    }
+
+.cont9{
+    position: absolute;
+    left: 635px;
+    top: 240px;
+}
+footer{
+    padding-bottom:20px ;
+}
+.p6{
+    color: #FFF;
+text-align: center;
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 150%; /* 27px */
+text-transform: uppercase;
+}
